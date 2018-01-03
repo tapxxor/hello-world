@@ -1,6 +1,6 @@
 # hello-world
 
-Welcome to Kubernetes v1.7.8-gke.0!
+These files come from Kubernetes v1.7.8-gke.0!
 
 You can find documentation for Kubernetes at:
   http://docs.kubernetes.io/
